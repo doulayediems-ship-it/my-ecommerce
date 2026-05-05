@@ -1,0 +1,5 @@
+my-ecommerce/
+├── server/ (Backend Express)
+├── client/ (Frontend React)
+├── README.md (Documentation complète)
+└── package.json
